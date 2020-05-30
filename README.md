@@ -5,3 +5,6 @@ Einslyn's first repository
 
 - @Jinan University
   - Zhuhai, China.
+
+## change:2020-05-30
+- test the tutorial on Github
