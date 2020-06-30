@@ -4,9 +4,13 @@ Einslyn's first repository
 
 
 ## CMD
--  cd /d/Git/hello-world
--  git  clone  https://github.com/Einslyn/hello-world.git
-- 
+- cd /d/Git/hello-world
+- git  clone  https://github.com/Einslyn/hello-world.git
+- git branch win-dev-branch
+- git checkout win-dev-branch
+- git add .
+
+
 
 
 
