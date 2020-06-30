@@ -9,12 +9,8 @@ Einslyn's first repository
 - git branch win-dev-branch
 - git checkout win-dev-branch
 - git add .
-
-
-
-
-
-
+- git commit -m  "update readme, switch to new branch"
+- git push origin win-dev-branch
 
 
 
